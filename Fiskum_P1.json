@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "timestamp": "2023-01-01T00:00:00Z",
+      "observed_discharge": 120.5,
+      "simulated_discharge": 118.7
+    },
+    {
+      "timestamp": "2023-01-02T00:00:00Z",
+      "observed_discharge": 130.0,
+      "simulated_discharge": 125.6
+    },
+    // ... more data points
+  ]
+}
